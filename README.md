@@ -73,3 +73,7 @@ jupyter notebook notebooks/01_totalenergies_analysis.ipynb
 ## Tools
 
 Python, pandas, NumPy, Matplotlib, seaborn, Jupyter.
+
+## Note
+
+I used an AI assistant to help me make this project more polished and professional.
